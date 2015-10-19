@@ -1,6 +1,6 @@
 # Retarded log
 
-Create for lazy programmer, help you become a lazier programmer but can also be a good pretty logging system
+Create for lazy programmer :stuck_out_tongue_closed_eyes: , help you become a lazier programmer but can also be a good pretty logging system :sunglasses:
 
 # Installation
 `$ npm install retarded-log`
@@ -112,7 +112,7 @@ log.disbalePrettyPrint(); // to disable pretty print
 
 ## Authors
 
-- [Lan Nguyen](https://github.com/lan-nguyen91)
+- [Lan Nguyen](https://github.com/lan-nguyen91) :stuck_out_tongue::stuck_out_tongue::stuck_out_tongue:
 
 
 #### By the authors
