@@ -51,6 +51,7 @@ log.wrn([print-object]) //warning
 log.lrt([print-object]) //alert
 
 ```
+
 *==> output*
 ![Result Info Image](./info.png)
 
