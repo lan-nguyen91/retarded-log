@@ -1,7 +1,8 @@
 {
   "name": "retarded-log",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "log",
+  "repository": "https://github.com/lan-nguyen91/retarded-log",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
