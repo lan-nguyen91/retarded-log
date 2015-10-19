@@ -53,6 +53,8 @@ log.lrt([print-object]) //alert
 ```
 
 *==> output*
+
+
 ![Result Info Image](./info.png)
 
 - Notes: Date time and hour of logger will be include for easy debug process
